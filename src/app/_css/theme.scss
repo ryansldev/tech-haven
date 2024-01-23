@@ -200,6 +200,9 @@
   --theme-error-900: var(--color-error-100);
   --theme-error-950: var(--color-error-50);
 
+  --color-dark-500: var(--color-dark-50)
+  --color-dark-50: var(--color-dark-500)
+
   --theme-bg: var(--theme-elevation-100);
   --theme-text: var(--theme-elevation-900);
   --theme-input-bg: var(--theme-elevation-150);
